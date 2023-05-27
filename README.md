@@ -3,14 +3,15 @@ Olá pessoas, sejam muito bem vindas ao meu perfil do GitHub!
 ## Sobre mim 🙂
 Olá, meu nome é Victório e começei a programar (De fato) com 13 anos. 
 
-Na verdade eu sempre tive interesse na area da programação, começei ainda cedo a explorar a barra de comando, sites usados para ensinar algoritmo (Como o Scratch) e em geral, todas as maravilhas que um computador fraco podia oferecer a uma criança curiosa.
+Na verdade eu sempre tive interesse na area da programação, começei ainda cedo a explorar a barra de comando, sites usados para ensinar algoritmo e em geral, todas as maravilhas que um computador fraco podia oferecer a uma criança curiosa.
 
 Mas de fato, só começei a entrar no mundo da programação aos 13 anos, quando começei a aprender Python com cursos gratuitos e posteriormente, evolui para os livros. Meu primeiro contato com a programação foi simplesmente incrível, e no momento eu não consigo ver outra vocação.
 
 ### Meus projetos, idéias e planos 🗺️
 
 Desde que eu acabei o meu ultimo livro de Python eu apenas trabalhei em projetos de menor escala (Por mais que desejasse encontrar um projeto grande, não consegui nenhuma idéia realmente boa). **No momento, os meus projetos mais interessantes disponíveis no Github são:**
-* Projetos com Tkinter, como [Unit-Converter](https://github.com/VictorioMaculan/unit-converter) e [Login-Screen](https://github.com/VictorioMaculan/login-screen) (Em breve)
+* Projetos com Tkinter, como [Unit-Converter](https://github.com/VictorioMaculan/unit-converter) e [Login-Screen](https://github.com/VictorioMaculan/login-screen)
+* Um bot de Discord (Em breve)
 * Mais projetos estão por vir, meu GitHub está apenas começando!
 
 Adoro estudar Python e programação em geral, e predento, quando achar que estou suficientemente bom em Python, aprender outra linguagem de programação.
