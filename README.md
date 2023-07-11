@@ -10,8 +10,8 @@ Mas de fato, só começei a entrar no mundo da programação aos 13 anos, quando
 ### Meus projetos, idéias e planos 🗺️
 
 Desde que eu acabei o meu ultimo livro de Python eu apenas trabalhei em projetos de menor escala (Por mais que desejasse encontrar um projeto grande, não consegui nenhuma idéia realmente boa). **No momento, os meus projetos mais interessantes disponíveis no Github são:**
-* Projetos com Tkinter, como [Unit-Converter](https://github.com/VictorioMaculan/unit-converter) e [Login-Screen](https://github.com/VictorioMaculan/login-screen)
-* Um bot de Discord (Em breve)
+* Projetos com Tkinter, como [Login-Screen](https://github.com/VictorioMaculan/login-screen) entre outros.
+* [Um bot de Blackjack para Discord](https://github.com/VictorioMaculan/Blackjack-DiscordBot)
 * Mais projetos estão por vir, meu GitHub está apenas começando!
 
 Adoro estudar Python e programação em geral, e predento, quando achar que estou suficientemente bom em Python, aprender outra linguagem de programação.
