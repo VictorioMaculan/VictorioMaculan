@@ -2,7 +2,7 @@
 
 Back to programming after some years of abstinence...
 
-##🤔 About me: 🤔
+## 🤔 About me: 🤔
 
 🌎 I'm Brazilian and *Gaúcho* (born in the state of *Rio Grande do Sul*)!
 
