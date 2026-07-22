@@ -22,7 +22,7 @@ Back to programming after some years of abstinence...
 
 ## 👩‍🏫 About my job: 👩‍🏫
 
-At the moment I'm a particular teacher in the subjects of mathematics, physics and chemistry for both middle and high school!
+At the moment I'm a tutor in the subjects of mathematics, physics and chemistry for both middle and high school!
 If you're interested, contact me via [Instagram](https://www.instagram.com/victoriomaculan/)!
 
 
